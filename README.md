@@ -16,6 +16,10 @@ This issue warrants investigation because it enables us to identify correlations
 ## Instructions
 Final analyses and graphs are all location on the main.ipynb file in this repository. If you wish to view work done by a specific collaborator, please reference the files in the `/Code Resources` folder. This has specific notebooks that each collobartor worked on for their specific portions of this project.
 
+All photos of graphs/charts created are located in the `Out` folder. They are labeled according to which question they were created for.
+
+Some users may find issues with dependencies with the hvplot geoviews library, adding `!pip install hvplot geoviews` to your project should satisfy this dependency.
+
 
 ## Authors
 
