@@ -39,6 +39,6 @@ variable to this file. This will allow you to run the geoapify API to view the d
 
 ## Optimizations
 
-- Added Column to identify 'Region' name. this is the caloquial name identifying groups of community areas.
+- Added Column to identify 'Region' name. this is the colloquial name identifying groups of community areas. This was a manual data manipulation. 
 - Created linear regression function to speed up EDA and easily grab pertinent statistical values related to the analysis.
 
