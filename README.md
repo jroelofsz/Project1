@@ -10,8 +10,11 @@ This issue warrants investigation because it enables us to identify correlations
 ## Questions Asked
 
     - Which community areas have high teen birth rates, does it have any relation with poverty level ? Is there a correlation between elevated rates of teen births and a lack of a high school diploma?
+
     - Does a higher rate of crowded housing result in a higher rate of Tuberculosis?
+
     - Do certain socioeconomic brackets have a higher risk of certain health markers?
+    
     - Which community areas have a high IMR? Does IMR correlate with  early prenatal care? Is early prenatal care available in Chicago proving effective from the perspective of IMR? Does early prenatal care correlate with Low Birth Weight (LBW) , and Preterm Births (PTB). Will a higher level of prenatal care result in fewer incidences of LBW and PTB?  Are there any OTHER significant drivers of these values?
 
 ## Instructions
@@ -37,6 +40,7 @@ To run this project, you will need to create a file named `api_keys.py` in your 
 
 ```python
 geoapify_key = "your_api_key_here"
+```
 
 
 ## Optimizations
