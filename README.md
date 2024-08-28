@@ -42,6 +42,25 @@ To run this project, you will need to create a file named `api_keys.py` in your 
 geoapify_key = "your_api_key_here"
 ```
 
+### How to Set Up Your Geoapify API Key
+
+To utilize the Geoapify services in this project, follow these steps to set up your API key:
+
+1. **Sign Up for a Geoapify Account:**
+   - Visit the [Geoapify website](https://www.geoapify.com/).
+   - Sign up for an account if you don’t already have one.
+   - Once logged in, navigate to the API keys section of your dashboard.
+
+2. **Generate an API Key:**
+   - In the API keys section, click on the option to create a new API key.
+   - Name your key and generate it. Make sure to copy the key somewhere safe.
+
+3. **Create an `api_keys.py` File:**
+   - In your project directory, create a new file named `api_keys.py`.
+   - Open the file and add the following line of code, replacing `your_api_key_here` with the key you generated:
+
+
+
 
 ## Optimizations
 
